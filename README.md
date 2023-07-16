@@ -15,4 +15,4 @@ Please fork this repository and then issue Pull Requests for review.
 >>>>>>> simple-changes
 ### Copyright
 
-2014 Git. Training. All rights Reserved.
+2014 Git. Training. All right 
